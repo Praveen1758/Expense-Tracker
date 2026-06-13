@@ -1,0 +1,13 @@
+.balance-container {
+  margin-bottom: 25px;
+}
+
+.balance-container h3 {
+  color: #bdbdbd;
+}
+
+.balance-container h2 {
+  font-size: 40px;
+  margin-top: 10px;
+  color: #4caf50;
+}

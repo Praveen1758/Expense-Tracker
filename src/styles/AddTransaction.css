@@ -1,0 +1,49 @@
+.add-container {
+  margin-top: 25px;
+  background: #1e1e1e;
+  padding: 20px;
+  border-radius: 12px;
+}
+
+.add-container h3 {
+  margin-bottom: 20px;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+.form-group label {
+  display: block;
+  margin-bottom: 8px;
+  color: #bdbdbd;
+}
+
+.form-group input {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #333;
+  background: #2c2c2c;
+  color: white;
+  border-radius: 8px;
+  outline: none;
+}
+
+.form-group input:focus {
+  border-color: #4caf50;
+}
+
+.btn {
+  width: 100%;
+  padding: 12px;
+  border: none;
+  background: #4caf50;
+  color: white;
+  font-size: 16px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.btn:hover {
+  background: #43a047;
+}

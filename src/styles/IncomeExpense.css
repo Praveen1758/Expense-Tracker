@@ -1,0 +1,36 @@
+.income-expense-container {
+  display: flex;
+  justify-content: space-between;
+  background: #1e1e1e;
+  padding: 25px;
+  border-radius: 12px;
+  margin-bottom: 25px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.4);
+}
+
+.income,
+.expense {
+  flex: 1;
+  text-align: center;
+}
+
+.income {
+  border-right: 1px solid #444;
+}
+
+.income h4,
+.expense h4 {
+  margin-bottom: 10px;
+}
+
+.income p {
+  color: #4caf50;
+  font-weight: bold;
+  font-size: 22px;
+}
+
+.expense p {
+  color: #f44336;
+  font-weight: bold;
+  font-size: 22px;
+}

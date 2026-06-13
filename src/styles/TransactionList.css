@@ -1,0 +1,23 @@
+.transaction-container {
+  margin-top: 20px;
+}
+
+.transaction-container h3 {
+  margin-bottom: 15px;
+}
+
+.transaction-container ul {
+  list-style: none;
+}
+
+.transaction-container li {
+  background: #1e1e1e;
+  margin-bottom: 12px;
+  padding: 15px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+  box-shadow: 0 0 10px rgba(0,0,0,0.3);
+}
