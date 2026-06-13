@@ -22,14 +22,8 @@ A modern and responsive Expense Tracker application built with React that helps 
 - Vite
 
 ## 📷 Preview
-
-Add screenshots of your project here.
-
-```bash
-assets/
-├── screenshot1.png
-└── screenshot2.png
-```
+<img width="1920" height="1080" alt="Screenshot (1746)" src="https://github.com/user-attachments/assets/e634a748-c4e4-46c1-8e94-c46bfc941e1f" />
+<img width="1920" height="1080" alt="Screenshot (1745)" src="https://github.com/user-attachments/assets/77b89bec-9dc4-487d-9b47-e181fee4f4a9" />
 
 ## 📂 Project Structure
 
